@@ -56,13 +56,13 @@
 <summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()  
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/Mintwheel8239)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26554400/master-fru)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61560315345439)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mahmudgalib1/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/MasterFru/)  
-[![daily.dev](https://img.shields.io/badge/daily.dev-FFFFFF?logo=daily.dev&logoColor=black)](https://app.daily.dev/masterfru)  
-[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/masterfru)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/MahmudGalib7)  
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28841934/mahmud-galib)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073979153029)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mahmudgalib7/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/MahmudGalib7/)  
+[![daily.dev](https://img.shields.io/badge/daily.dev-FFFFFF?logo=daily.dev&logoColor=black)](https://app.daily.dev/mahmudgalib) 
+[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/mahmudgalib7)
 </details>
 
 ---
