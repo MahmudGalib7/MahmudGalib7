@@ -53,16 +53,19 @@
 ---
 
 <details>
-<summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
+<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()  
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/MahmudGalib7)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28841934/mahmud-galib)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073979153029)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mahmudgalib7/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/MahmudGalib7/)  
-[![daily.dev](https://img.shields.io/badge/daily.dev-FFFFFF?logo=daily.dev&logoColor=black)](https://app.daily.dev/mahmudgalib) 
-[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/mahmudgalib7)
+<p>
+  <a href="https://discord.gg/your-discord-link"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
+  <a href="https://stackoverflow.com/users/28841934/mahmud-galib"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="Stack Overflow"></a>
+  <a href="https://x.com/MahmudGalib7"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X"></a>
+  <a href="https://www.reddit.com/user/MahmudGalib7/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reddit" alt="Reddit"/></a>
+  <a href="https://app.daily.dev/mahmudgalib"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" alt="daily.dev"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100073979153029"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/mahmudgalib7/"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram"/></a>
+  <a href="https://dev.to/mahmudgalib7"><img src="https://go-skill-icons.vercel.app/api/icons?i=devto" alt="DEV Community"/></a>
+</p>
+
 </details>
 
 ---
