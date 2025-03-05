@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/MahmudGalib7/MahmudGalib7/blob/master/macchiato.png?raw=true" width="200" />
+  <img src="https://github.com/MahmudGalib7/MahmudGalib7/blob/main/macchiato.png" width="200" />
 </p>
 
 ---
