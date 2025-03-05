@@ -1,12 +1,8 @@
+---
 
-<h1 align="center">Hi 👋, I'm Mahmud Galib</h1>
-<h3 align="center">"Passionate Programmer | Linux & Open Source Enthusiast | Always Learning & Exploring New Technologies"</h3>
-
-<p align="center"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=MahmudGalib7&label=Profile%20views&color=0e75b6&style=flat" alt="masterfru" />
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!👋;I'm+Mahmud Galib!;Linux+Enthusiast🐧;Code+Explorer💻;&font=Poppins&center=true&width=500&height=50">
