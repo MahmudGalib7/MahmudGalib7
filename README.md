@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!👋;I'm+Mahmud Galib!;Linux+Enthusiast🐧;Code+Explorer💻;&font=Poppins&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://github.com/MahmudGalib7/MahmudGalib7/blob/master/macchiato.png?raw=true" width="200" />
+</p>
+
 ---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="200" align="right">
