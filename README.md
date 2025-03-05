@@ -51,9 +51,6 @@
   </div>
 </details>
 
-
-
-
 ---
 
 <details>
@@ -151,16 +148,6 @@
 </details>
 
 
----
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmudGalib7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 <h3 align="left">✍️ Random Dev Quote</h3>
 
 <p align="center">
@@ -169,13 +156,6 @@
 
 ---
 
-<h3 align="left">🔝 Top Contributed Repos</h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MahmudGalib7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repo stats"/>
-</p>
-
----
 ![Snake animation](https://raw.githubusercontent.com/MahmudGalib7/MahmudGalib7/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="center">
