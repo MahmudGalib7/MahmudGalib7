@@ -29,22 +29,25 @@
 <details>
   <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=📊+My+GitHub+Statistics;&font=Poppins&width=500&height=50"></h3></summary>
 
-  <div align="center">
+  <div align="center">  
+    <!-- Streak Stats (Smallest) -->
+    <p>
+      <img src="https://streak-stats.demolab.com/?user=MahmudGalib7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </p>
+    <!-- GitHub Stats (Medium) -->
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=MahmudGalib7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+    </p>
+    <!-- Profile Summary (Biggest) -->
     <p>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudGalib7&theme=tokyonight" alt="GitHub Profile Summary"/>
     </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=MahmudGalib7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-      </p>
-      <p>
-        <img src="https://streak-stats.demolab.com/?user=MahmudGalib7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-      </p>
-    </div>
+    <!-- Activity Graph (Widest) -->
     <p>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudGalib7&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
     </p>
   </div>
+
 </details>
 
 ---
