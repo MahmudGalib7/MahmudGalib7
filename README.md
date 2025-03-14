@@ -19,7 +19,7 @@
 - 🌱 Linux Enthusiast who loves tinkering with systems.
 - 🌐 Active on Stack Overflow, Reddit, Dev & DailyDev.
 - 💻 Skills: Web Development, JavaScript, Python, C & C++.
-- 🎯 Aspiring Full-Stack Developer & Competitive Programmer.
+- 🎯 Aspiring AI-Engineer, Full-Stack Developer & Competitive Programmer
 - 🔐 Dabbles in Ethical Hacking.
 
 <br>
