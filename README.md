@@ -1,12 +1,10 @@
 ---
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=MahmudGalib7&label=Profile%20views&color=0e75b6&style=flat" alt="masterfru" />
+  <img src="https://komarev.com/ghpvc/?username=MahmudGalib7&label=Profile%20views&color=0e75b6&style=flat" alt="MahmudGalib7" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!👋;I'm+Mahmud Galib!;Linux+Enthusiast🐧;Code+Explorer💻;&font=Poppins&center=true&width=500&height=50">
-</p>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!👋;I+Am+Mahmud Galib;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins&center=true"></h3>
 
 <p align="center">
   <img src="https://github.com/MahmudGalib7/MahmudGalib7/blob/main/macchiato.png" width="200" />
@@ -26,34 +24,21 @@
 
 ---
 
-<details>
-  <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=📊+My+GitHub+Statistics;&font=Poppins&width=500&height=50"></h3></summary>
 
-  <div align="center">  
-    <!-- Streak Stats (Smallest) -->
-    <p>
-      <img src="https://streak-stats.demolab.com/?user=MahmudGalib7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </p>
-    <!-- GitHub Stats (Medium) -->
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=MahmudGalib7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-    </p>
-    <!-- Profile Summary (Biggest) -->
-    <p>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudGalib7&theme=tokyonight" alt="GitHub Profile Summary"/>
-    </p>
-    <!-- Activity Graph (Widest) -->
-    <p>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudGalib7&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-    </p>
-  </div>
+<details>
+<summary><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight&hide_border=true"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=MuntasirSZN&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntasirSZN&theme=tokyo-night"/></p>
 
 </details>
 
 ---
 
 <details>
-<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
+<summary><h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 <p>
   <a href="https://discord.gg/your-discord-link"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
@@ -71,7 +56,8 @@
 ---
 
 <details>
-  <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Frameworks,+Libraries+And+Tools;💻+That+I+Use+Everyday;&font=Poppins"></h3></summary>
+  <summary><h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Frameworks,+Libraries+And+Tools;💻+That+I+Use+Everyday;&font=Poppins"></h3></summary>
+
 
   <p align="center">
     <a href="https://zen-browser.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=zen" alt="Zen"></a>
@@ -144,6 +130,7 @@
     <a href="https://help.figma.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="Figma"></a>
   </p>
 
+
 </details>
 
 
@@ -160,3 +147,4 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+Visiting+💖;&font=Poppins&center=true&width=500&height=50">
 </h3>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting+💖;&font=Poppins&center=true"></p>
