@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=MahmudGalib7&label=Profile%20views&color=0e75b6&style=flat" alt="MahmudGalib7" />
 </p>
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!👋;I+Am+Mahmud Galib;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins&center=true"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!👋;I+Am+Galib;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins&center=true"></h3>
 
 <p align="center">
   <img src="https://github.com/MahmudGalib7/MahmudGalib7/blob/main/macchiato.png" width="200" />
