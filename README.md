@@ -28,7 +28,7 @@
 <details>
 <summary><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahmudGalib7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MahmudGalib7&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=MahmudGalib7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudGalib7&theme=tokyonight"/></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudGalib7&theme=tokyo-night"/></p>
