@@ -8,11 +8,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="200" align="right">
 
-- 🌱 Linux Enthusiast who loves tinkering with systems.
-- 🌐 Active on Stack Overflow, Reddit, Dev & DailyDev.
-- 💻 Skills: Web Development, JavaScript, Python, C & C++.
-- 🎯 Aspiring AI-Engineer, Full-Stack Developer & Competitive Programmer
-- 🔐 Dabbles in Ethical Hacking.
+- 🌱 Linux & open-source enthusiast | Competitive Programmer (Python, C++)
+- 🧠 Aspiring AI Engineer, diving deep into ML, DL & data science
+- 💻 Strong in Web Development (JavaScript, Python) + DSA mastery in progress
+- 🎯 Focused on problem-solving, algorithmic thinking & AI systems
+- 🔐 Interested in ethical hacking, cybersecurity & system design
 
 <br>
 
