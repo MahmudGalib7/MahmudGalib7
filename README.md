@@ -1,14 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahmud%20Galib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=52&descSize=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Mahmud%20Galib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=52&descSize=16">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahmud%20Galib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=52&descSize=16"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahmud%20Galib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=52&descSize=16"/>
 
 <div align="center">
 
 <!-- Animated Typing Effect -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning;%F0%9F%92%BB+Competitive+Programming+%7C+DSA;%F0%9F%90%A7+Linux+%26+Open+Source+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E06C75&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning;%F0%9F%92%BB+Competitive+Programming+%7C+DSA;%F0%9F%90%A7+Linux+%26+Open+Source+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -29,9 +25,10 @@
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A259FF&center=true&vCenter=true&repeat=true&width=1000&lines=--------------------------------------------------"/>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30"> About Me
@@ -63,10 +60,9 @@ fun_fact: "I debug with coffee ☕ and solve problems for fun 🧩"
 - 🔐 **Security Enthusiast** — Ethical Hacking & System Design
 - 🌱 **Nature Lover** — Photography & Exploring the Outdoors
 
-<br clear="right"/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A259FF&center=true&vCenter=true&repeat=true&width=1000&lines=--------------------------------------------------"/>
+</div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
@@ -284,36 +280,25 @@ fun_fact: "I debug with coffee ☕ and solve problems for fun 🧩"
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A259FF&center=true&vCenter=true&repeat=true&width=1000&lines=--------------------------------------------------"/>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=MahmudGalib7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<!-- Stats Row -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahmudGalib7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MahmudGalib7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=MahmudGalib7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats"/>
 
 <br/>
 
-<!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudGalib7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-
-<br/>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudGalib7&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Activity Graph"/>
+<sub>⚠️ If you don't see my stats, it's a GitHub or third-party service issue!</sub>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A259FF&center=true&vCenter=true&repeat=true&width=1000&lines=--------------------------------------------------"/>
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> Connect With Me
 
@@ -335,13 +320,18 @@ fun_fact: "I debug with coffee ☕ and solve problems for fun 🧩"
 </td>
 <td align="center" width="96">
   <a href="https://www.reddit.com/user/MahmudGalib7/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="48" height="48" alt="Reddit"/>
+    <img
+      src="https://cdn.simpleicons.org/reddit/A259FF"
+      width="48"
+      height="48"
+      alt="Reddit"
+    />
   </a>
   <br><b>Reddit</b>
 </td>
 <td align="center" width="96">
   <a href="https://discord.gg/your-discord-link">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="48" height="48" alt="Discord"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="48" height="48" alt="Discord"/>
   </a>
   <br><b>Discord</b>
 </td>
@@ -388,10 +378,11 @@ fun_fact: "I debug with coffee ☕ and solve problems for fun 🧩"
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A259FF&center=true&vCenter=true&repeat=true&width=1000&lines=--------------------------------------------------"/>
+</div>
 
-## 💭 Random Dev Quote
+## <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30"> Random Dev Quote
 
 <div align="center">
 
@@ -399,8 +390,9 @@ fun_fact: "I debug with coffee ☕ and solve problems for fun 🧩"
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A259FF&center=true&vCenter=true&repeat=true&width=1000&lines=--------------------------------------------------"/>
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Contribution Graph
 
@@ -414,9 +406,11 @@ fun_fact: "I debug with coffee ☕ and solve problems for fun 🧩"
 
 </div>
 
-<!-- Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A259FF&center=true&vCenter=true&repeat=true&width=1000&lines=--------------------------------------------------"/>
+</div>
 
+<!-- Footer -->
 <div align="center">
 
 ### 💡 _"The best way to predict the future is to create it."_
