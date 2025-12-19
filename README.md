@@ -285,10 +285,21 @@ fun_fact: "I debug with coffee ☕ and solve problems for fun 🧩"
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+<div align="center"> <!-- Main GitHub Stats -->
 
-<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=MahmudGalib7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=MahmudGalib7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats"/>
+<br/><br/>
+
+<!-- Profile Summary Card -->
+
+<img width="85%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudGalib7&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudGalib7&theme=tokyo-night&hide_border=true" />
 
 <br/>
 
